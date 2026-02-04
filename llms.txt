@@ -1,0 +1,19 @@
+
+# Lua Professional Studio
+
+A high-performance, browser-based Lua IDE designed for professional development and testing of Lua scripts.
+
+## Core Features
+- **Fengari Engine**: Executes Lua 5.4 directly in the browser with full library support.
+- **Smart Editor**: Feature-rich editor with custom syntax highlighting and context-aware auto-completion for Lua keywords and built-in functions.
+- **Project Explorer**: Virtual file system with multi-tab support and folder organization.
+- **Interactive Terminal**: Real-time output capture from print statements and execution errors.
+- **Modern UI**: Dark-themed, minimalist aesthetic inspired by high-end development environments (VS Code style).
+
+## Technology Stack
+- **Frontend**: React 19, TypeScript, Tailwind CSS.
+- **Engine**: Fengari (Lua VM in JavaScript).
+- **Icons**: Material Symbols.
+
+## Usage
+Users can create files (.lua or .json), write scripts, and execute them instantly via the 'Run' button. The editor supports tab navigation and standard IDE shortcuts like Tab-indentation.

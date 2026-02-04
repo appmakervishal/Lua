@@ -1,0 +1,5 @@
+{
+  "name": "Lua Professional Studio",
+  "description": "A modern, minimalist Lua IDE powered by Fengari-web, featuring a robust code editor, file explorer, and integrated terminal.",
+  "requestFramePermissions": []
+}
